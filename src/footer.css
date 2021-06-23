@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+.footer-inner{
+    width: 100%;
+    display: flex;
+}
+
+.footer-image{
+    width: 60%;
+}
+
+.footer-info{
+    font-size: 35px;
+    width: 40%;
+    display: flex;
+    color: white;
+    margin-top: 10%;
+}
+
+a{
+    margin-left: 4%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: "Open Sans";
+    font-weight: 800;
+    transition: 0.5s;
+}
+
+.youtube:hover{
+    color: rgb(245, 113, 113);
+    transition: 0.5s;
+}
+
+.tiktok:hover{
+    color: gray;
+    transition: 0.5s;
+}
+
+.instagram:hover{
+    color: hotpink;
+    transition: 0.5s;
+}
+
+.discord:hover{
+    color: rgb(113, 103, 160);
+    transition: 0.5s;
+}
+
+.whatsapp:hover{
+    color: rgb(33, 200, 136);
+    transition: 0.5s;
+}
+
+.vk:hover{
+    color: rgb(46, 134, 216);
+    transition: 0.5s;
+}

@@ -1,0 +1,54 @@
+.stars-inner {
+  margin-top: 5%;
+  display: flex;
+  width: 100%;
+}
+
+.star-first-group {
+  border-radius: 150px;
+  transition: 0.5s;
+  text-align: center;
+  margin-left: 1.5%;
+  padding-right: 40px;
+}
+
+.star-first-group h1 {
+  margin-left: 5%;
+}
+
+.star-first-group:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px yellow;
+}
+
+.star-second-group {
+  border-radius: 150px;
+  transition: 0.5s;
+  margin-left: 5%;
+  padding-right: 40px;
+}
+
+.star-second-group h1 {
+  margin-left: 5%;
+}
+
+.star-second-group:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px orangered;
+}
+
+.star-third-group {
+  border-radius: 150px;
+  transition: 0.5s;
+  margin-left: 5%;
+  padding-right: 40px;
+}
+
+.star-third-group h1 {
+  margin-left: 5%;
+}
+
+.star-third-group:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(167, 227, 230);
+}

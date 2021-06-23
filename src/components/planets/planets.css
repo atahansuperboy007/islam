@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h1{
+    text-align: center;
+    font-family: "Exo";
+    font-weight: 200;
+    font-size: 50px;
+    color: white;
+}
+
+.first-group{
+    display: flex;
+    left: 150px;
+    margin-left: 3.7%;
+}
+
+.mercury{
+    padding-top: 5px;
+    padding-right: 15px;
+    margin-left: 0%;
+    border-radius: 150px;
+    transition: 0.5s;
+}
+
+.mercury img{
+    width: 500px;
+    height: 500px;
+
+}
+
+.mercury:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(163, 163, 163);
+}
+
+.venus{
+    padding-top: 10px;
+    padding-right: 3px;
+    padding-left: 10px;
+    margin-left: 5%;
+    border-radius: 150px;
+    transition: 0.5s;
+}
+
+.venus:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px orange;
+}
+
+.earth{
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 5%;
+    border-radius: 150px;
+    transition: 0.5s;
+}
+
+.earth:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px skyblue;
+}
+
+.second-group{
+    margin-top: 10%;
+    display: flex;
+}
+
+.mars{
+    padding-top: 5px;
+    padding-left: 7px;
+    margin-left: 5%;
+    border-radius: 150px;
+    transition: 0.5s;
+}
+
+.mars:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px red;
+}
+
+.jupiter{
+    padding-top: 5px;
+    padding-left: 10px;
+    margin-left: 5%;
+    border-radius: 150px;
+    transition: 0.5s;
+}
+
+.jupiter:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(214, 201, 176);
+}
+
+.saturn{
+    padding-right: 10px;
+    margin-left: 5%;
+    border-radius: 150px;
+    transition: 0.5s;
+}
+
+.saturn:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(180, 175, 145);
+}
+
+.third-group{
+    margin-top: 10%;
+    display: flex;
+}
+
+.uranus{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    margin-left: 15%;
+    transition: 0.5s;
+    border-radius: 150px;
+}
+
+.uranus:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(169, 198, 218);
+}
+
+.neptune{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 15%;
+    transition: 0.5s;
+    border-radius: 150px;
+}
+
+.neptune:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(0, 26, 255);
+}

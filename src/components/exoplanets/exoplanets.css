@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.exo-first-group {
+  display: flex;
+}
+
+.exo-second-group {
+  display: flex;
+}
+
+.exo-third-group {
+  display: flex;
+}
+
+.exoplanets h2 {
+  text-align: center;
+  font-family: "Exo";
+  font-weight: 200;
+  font-size: 50px;
+  color: white;
+  margin-bottom: 4%;
+}
+
+.exoplanets-inner h1 {
+  margin-top: 5%;
+}
+
+.ogle-2016-blg-1195lb {
+  border-radius: 150px;
+  margin-left: 4.5%;
+  margin-bottom: 11%;
+}
+
+.ogle-2016-blg-1195lb:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(153, 150, 209);
+}
+
+.kelt-9b {
+  border-radius: 150px;
+  margin-left: 4.5%;
+  margin-bottom: 11%;
+}
+
+.kelt-9b:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(200, 140, 91);
+}
+
+.gj-1214b {
+  border-radius: 150px;
+  margin-left: 4.5%;
+  margin-bottom: 11%;
+}
+
+.gj-1214b:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(189, 77, 120);
+}
+
+.pSR-J1719-1438-b {
+  padding-bottom: 2%;
+  border-radius: 150px;
+  margin-left: 4.5%;
+  margin-bottom: 11%;
+}
+
+.pSR-J1719-1438-b:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(163, 198, 221);
+}
+
+.kepler-16b {
+  margin-left: 4.5%;
+  border-radius: 150px;
+  margin-bottom: 11%;
+}
+
+.kepler-16b:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(241, 211, 74);
+}
+
+.kepler-10b {
+  margin-left: 4.5%;
+  border-radius: 150px;
+  margin-bottom: 11%;
+}
+
+.kepler-10b:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 150px rgb(255, 123, 0);
+}
+
+.tres-2b {
+  margin-left: 4.5%;
+  border-radius: 150px;
+  margin-bottom: 11%;
+}
+
+.tres-2b:hover {
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(0, 0, 0);
+  }
+
+.hd-189733b {
+  margin-left: 4.5%;
+  border-radius: 150px;
+  margin-bottom: 11%;
+}
+
+.hd-189733b:hover {
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(0, 217, 255);
+  }
+
+.corot-7b {
+  margin-left: 4.5%;
+  border-radius: 150px;
+  margin-bottom: 11%;
+}
+
+.corot-7b:hover {
+    transition: 0.5s;
+    box-shadow: 0px 0px 150px rgb(255, 0, 0);
+  }

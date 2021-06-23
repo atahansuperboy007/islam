@@ -1,0 +1,43 @@
+[
+    {
+        "name" : "Sun",
+        "id" : "sun",
+        "photo" : "https://i.postimg.cc/tRwRGNHY/sun.png",
+        "icon" : "https://i.postimg.cc/MKLG1sJY/sun-icon.png",
+        "class" : "Желтый карлик",
+        "massa" : "2 млрд киллограмм",
+        "age" : "4,7 млрд лет",
+        "radius" : "696 340 км",
+        "fromsun" : "0 км",
+        "temp" : "5 505 ℃",
+        "svet" : "1 L"
+    },
+
+    {
+        "name" : "Betelguese",
+        "id" : "betelguese",
+        "photo" : "https://i.postimg.cc/2ysCdrx4/betelguese.png",
+        "icon" : "https://i.postimg.cc/nV0rhFdg/betelguese-icon.png",
+        "class" : "Красный гигант",
+        "massa" : "2,1 млрд киллограмм",
+        "age" : "10 010 000 лет",
+        "radius" : "617 100 000 км",
+        "fromsun" : "642 световых года",
+        "temp" : "3 227 ℃",
+        "svet" : "70 000 L"
+    },
+
+    {
+        "name" : "Sirius",
+        "id" : "sirius",
+        "photo" : "https://i.postimg.cc/1Xn9NfDm/sirius.png",
+        "icon" : "https://i.postimg.cc/fLvLXDM3/sirius-icon.png",
+        "class" : "Белый карлик",
+        "massa" : "2 млрд киллограмм",
+        "age" : "4,7 млрд лет",
+        "radius" : "696 340 км",
+        "fromsun" : "8 611 световых лет",
+        "temp" : "9 667 ℃",
+        "svet" : "25 L"
+    }
+]

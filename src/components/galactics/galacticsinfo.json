@@ -1,0 +1,34 @@
+[
+    {
+        "icon" : "https://i.postimg.cc/7Lp7RNMz/milkyway-icon.png",
+        "photo" : "https://i.postimg.cc/XYqC7PsF/milkyway.jpg",
+        "id" : "milkyway",
+        "name" : "MilkyWay",
+        "age" : "1,1 квдр лет",
+        "radius" : "100 000 световых лет",
+        "stars" : "200-400 млрд звезд",
+        "type" : "SBbc (спиральная галактика с перемычкой)"
+    },
+
+    {
+        "icon" : "https://i.postimg.cc/Cxxjn5xR/andromeda-icon.png",
+        "photo" : "https://i.postimg.cc/Z5Qy9LQQ/andromeda.jpg",
+        "id" : "andromeda",
+        "name" : "Andromeda",
+        "age" : "1 квдр лет",
+        "radius" : "110 000 световых лет",
+        "stars" : "Триллион звезд",
+        "type" : "SA(s)b (спиральная галактика)"
+    },
+
+    {
+        "icon" : "https://i.postimg.cc/4yR6Y1YG/ngc691-icon.jpg",
+        "photo" : "https://i.postimg.cc/WbXZVVwT/ngc691.jpg",
+        "id" : "ngc691",
+        "name" : "NGC-691",
+        "age" : "Неизвестно",
+        "radius" : "130 000 световых лет",
+        "stars" : "Неизвестно",
+        "type" : "SBbc (спиральная галактика с перемычкой)"
+    }
+]

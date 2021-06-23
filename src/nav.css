@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100;300&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./nav-images/bg-space.jpg);
+}
+
+h1 {
+  color: white;
+}
+
+.nav-inner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  margin-bottom: 2%;
+}
+
+.nav-info {
+  font-family: "Alegreya Sans SC", sans-serif;
+  width: 20%;
+  font-weight: 300;
+  font-size: 20px;
+  display: flex;
+  text-align: right;
+  color: white;
+  margin-top: 3%;
+}
+
+.nav-info h3 {
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  transition: 0.5s;
+}
+
+.nav-info h3:hover{
+  transition: 0.5s;
+  opacity: 0.5;
+}
+
+.nav-info img:hover{
+  transition: 0.5s;
+  opacity: 0.5;
+}
+
+.nav-info img {
+  transition: 0.5s;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 1%;
+  margin-left: 2%;
+}
+
+.nav-logo {
+  width: 40%;
+}
+
+.nav-logo img {
+  margin-top: -5%;
+  width: 450px;
+  height: 200px;
+}

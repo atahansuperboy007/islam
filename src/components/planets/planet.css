@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.planets-inner h1{
+    margin-bottom: 2%;
+}
+
+.mercury-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.mercury-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.mercury-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.venus-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.venus-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.venus-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.earth-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.earth-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.earth-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.mars-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.mars-info img{
+    margin-left: -65%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.mars-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.jupiter-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.jupiter-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.jupiter-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.saturn-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.saturn-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.saturn-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.uranus-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.uranus-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.uranus-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.neptune-info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.neptune-info img{
+    margin-left: -55%;
+    width: 1920px;
+    height: 1080px;
+}
+
+.neptune-info:hover{
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.info-info{
+    margin-top: 8%;
+    margin-left: 3%;
+}
+
+.info-info h1{
+    color: white;
+    margin-right: 5%;
+    font-size: 70px;
+}
+
+.info-info ul{
+    margin-left: 1%;
+    color: white;
+    font-family: "Montserrat";
+    font-size: 37px;
+}

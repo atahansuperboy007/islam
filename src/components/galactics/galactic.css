@@ -1,0 +1,20 @@
+.info-info h3{
+    font-family: "Montserrat";
+    color: white;
+    font-size: 35px;
+}
+
+.info-info h1{
+    margin-bottom: 4%;
+}
+
+.image-info{
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-bottom: -5%;
+}
+
+.ngc691-info img{
+    margin-left: 18%;
+    border-radius: 50px;
+}
